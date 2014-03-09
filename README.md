@@ -7,9 +7,10 @@ combox
 有疑问可以Email：kasslun@gmail.com
 Demo
 ----
-[单选多选](http://kasslun.github.io/combox/demo/combox.html)    
-[Ajax懒加载选项数据](http://kasslun.github.io/combox/demo/combox_ajax.html)    
-[combox联动](http://kasslun.github.io/combox/demo/combox_contact.html)
+* [单选多选](http://kasslun.github.io/combox/demo/combox.html)    
+* [Ajax懒加载选项数据](http://kasslun.github.io/combox/demo/combox_ajax.html)    
+* [combox联动](http://kasslun.github.io/combox/demo/combox_contact.html)
+
 依赖
 ----
 jQuery1.4以上版本。
