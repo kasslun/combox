@@ -7,9 +7,9 @@ combox
 有疑问可以Email：kasslun@gmail.com
 Demo
 ----
-* [单选多选](http://kasslun.github.io/combox/demo/combox.html)    
-* [Ajax懒加载选项数据](http://kasslun.github.io/combox/demo/combox_ajax.html)    
-* [combox联动](http://kasslun.github.io/combox/demo/combox_contact.html)
+* <a href="http://kasslun.github.io/combox/demo/combox.html" target="_blank">单选多选</a>  
+* <a href="http://kasslun.github.io/combox/demo/combox_ajax.html" target="_blank">Ajax懒加载选项数据</a>  
+* <a href="http://kasslun.github.io/combox/demo/combox_contact.html" target="_blank">combox联动</a>   
 
 依赖
 ----
